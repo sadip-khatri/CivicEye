@@ -1,8 +1,7 @@
 import React from 'react'
-// import Home from './components/Home/Home'
+import Home from './components/Home/Home'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Navbar } from './Layout/Navbar';
-import Home from './components/Home/Home';
 
 
 function App() {
